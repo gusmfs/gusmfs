@@ -3,7 +3,7 @@
 
 <img width="100%" height="400" src="https://steamuserimages-a.akamaihd.net/ugc/945094571616867748/680E4979CC75A2310664E0883F3F3FC6CBECA3BE/?imw=1024&imh=576&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true" alt="">
 
-🌱 I’m currently learning javascript
+🌱 I’m currently learning nodejs
 
 <h3>I'm really excited to have my first job as a junior web developer so if you want me on your team or just chat here are my contacts</h3>
 <p align="left">
