@@ -21,7 +21,7 @@
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
 <a href="https://react.dev%22%3E/<img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" width="40" height="40" alt="React"/></a>
 <a href="https://sass-lang.com%22%3E/<img src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-icon.svg" width="40" height="40" alt="Sass"/></a>
-<a href="https://sass-lang.com%22%3E/<img src="https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=black" width="40" height="40" alt="Sass"/></a>
+<a href="https://sass-lang.com%22%3E/<img src="https://addons.mozilla.org/user-media/addon_icons/649/649896-64.png?modified=mcrushed" width="40" height="40" alt="Sass"/></a>
 
 </p>
 
