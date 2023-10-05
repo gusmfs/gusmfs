@@ -31,7 +31,7 @@
 
 
 <h3>My portfolio:</h3>
-<a>Stil in work 😞 </a>
+<a>Stil in work... </a>
 
 <hr>
 
