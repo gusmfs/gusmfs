@@ -1,7 +1,7 @@
-<h1 align="center">Hi 🤠, I'm Miguel</h1>
+<h1 align="center">Hi 🤠, My name is Gustavo</h1>
 <h3 align="center">A developer from Brazil</h3>
 
-<img width="100%" height="400" src="https://giffiles.alphacoders.com/162/162646.gif" alt="">
+<img width="100%" height="400" src="https://gifdb.com/images/high/lofi-rooftop-study-night-chill-lqcvkej9ymld5zbv.gif" alt="">
 
 🌱 I’m currently learning javascript
 
