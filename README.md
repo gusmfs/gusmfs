@@ -13,7 +13,7 @@
 <a href="https://www.instagram.com/oigostavo/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="oigostavo" height="30" width="40" /></a>
 </p>
 <h3 align="left">Languages and Tools:</h3>
-<div style="display: inline_block , gap="16px"><br/>
+<div style="display: inline_block gap="16px"><br/>
  <img align="center" alt="nodejs" src="https://img.shields.io/badge/Node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
  <img align="center" alt="express" src="https://img.shields.io/badge/Express-000000.svg?style=for-the-badge&logo=Express&logoColor=white"/>
  <img align="center" alt="postgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1.svg?style=for-the-badge&logo=PostgreSQL&logoColor=white"/>
