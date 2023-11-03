@@ -37,4 +37,4 @@
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=gusmfs&show_icons=true&locale=en" width="45%" alt="gusmfs" />
 
-<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=gusmfs&" width="45%" alt="gusmfs" />
+
