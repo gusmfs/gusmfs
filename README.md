@@ -1,7 +1,7 @@
 <h1 align="center">Hello, My name is Gustavo</h1>
 <h3 align="center">A developer from Brazil</h3>
 
-<img width="100%" height="400" src="https://cdn.dribbble.com/users/2660258/screenshots/10744223/media/06ace0e78af91c677e84d084643513c8.gif" alt="">
+<img width="100%" height="400" src="https://wallpaperaccess.com/download/lofi-gif-2471364" alt="">
 
 🌱 I’m currently learning nodejs
 
