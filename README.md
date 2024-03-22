@@ -13,7 +13,7 @@
 <a href="https://www.linkedin.com/in/gustavo-medeiros-abb64a26b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gustavo-medeiros-abb64a26b" height="30" width="40" /></a>
 <a href="https://www.instagram.com/oigostavo/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="oigostavo" height="30" width="40" /></a>
 </p>
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Tecnologias e ferramentas:</h3>
 <div style="display: flex gap="16px"><br/>
  <img align="center" alt="nodejs" src="https://img.shields.io/badge/Node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
  <img align="center" alt="python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
