@@ -40,15 +40,8 @@
 <h3>My portfolio:</h3>
 <a>Stil in work... </a>
 
-<table><tr><td valign="top" width="50%">
 
-<img src="https://readme-jokes.vercel.app/api?hideBorder" alt="Jokes Card" />
 
-</td><td valign="top" width="50%">
-
-<img src="./assets/metrics.plugin.achievements.svg">
-
-</td></tr></table>
 
 <br>
 <br>
