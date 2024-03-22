@@ -2,7 +2,7 @@
 <h3 align="center">< Desenvolvedor Full-Stack | QA Analysis /></h3>
 
 
-<img width="100%" height="400" src="https://www.icegif.com/wp-content/uploads/2021/09/icegif-9.gif" alt="">
+<img width="100%" height="400" src="https://cdn.dribbble.com/users/2660258/screenshots/10744223/media/06ace0e78af91c677e84d084643513c8.gif" alt="">
 
 🌱 Estou atualmente aprendendo NestJS/AWS/Docker/Jest
 
