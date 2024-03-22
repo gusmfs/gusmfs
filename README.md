@@ -2,7 +2,7 @@
 <h3 align="center">< Desenvolvedor Full-Stack | QA Analysis /></h3>
 
 
-<img width="100%" height="400" src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fcdn.dribbble.com%2Fusers%2F2660258%2Fscreenshots%2F10744223%2Fmedia%2F06ace0e78af91c677e84d084643513c8.gif&tbnid=yILWW_GwQyatTM&vet=12ahUKEwjS0Z-EyYiFAxUGCbkGHRMEA8cQMygzegUIARCSAg..i&imgrefurl=https%3A%2F%2Fdribbble.com%2Fshots%2F10744223-Lofi-Loop-Animation&docid=vzFKk1dPcb7SUM&w=400&h=300&q=gif%20lofi&ved=2ahUKEwjS0Z-EyYiFAxUGCbkGHRMEA8cQMygzegUIARCSAg" alt="">
+<img width="100%" height="400" src="https://www.icegif.com/wp-content/uploads/2021/09/icegif-9.gif" alt="">
 
 🌱 Estou atualmente aprendendo NestJS/AWS/Docker/Jest
 
