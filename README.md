@@ -1,12 +1,12 @@
-<h1 align="center">Hello, My name is Gustavo</h1>
-<h3 align="center">A developer from Brazil</h3>
+<h1 align="center">Olá, meu nome é Gustavo</h1>
+<h3 align="center">Desenvolvedor Full-Stack | QA Analysis</h3>
 
 
 <img width="100%" height="400" src="https://steamuserimages-a.akamaihd.net/ugc/945094571616867748/680E4979CC75A2310664E0883F3F3FC6CBECA3BE/?imw=1024&imh=576&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true" alt="">
 
-🌱 I’m currently learning nodejs
+🌱 Estou atualmente aprendendo NestJS/AWS/Docker/Jest
 
-<h3>I'm really excited to have my first job as a junior web developer so if you want me on your team or just chat here are my contacts</h3>
+<h3>Estou muito animado em busca da minha primeira vaga na área da tecnologia. Se você me quiser no seu time, entre em contato comigo!</h3>
 <p align="left">
 
 
@@ -15,6 +15,15 @@
 </p>
 <h3 align="left">Languages and Tools:</h3>
 <div style="display: flex gap="16px"><br/>
+ <img align="center" alt="nodejs" src="https://img.shields.io/badge/Node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+ <img align="center" alt="express" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge"/>
+ <img align="center" alt="nodejs" src="https://img.shields.io/badge/Node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+ <img align="center" alt="nodejs" src="https://img.shields.io/badge/Node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+ <img align="center" alt="nodejs" src="https://img.shields.io/badge/Node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+ <img align="center" alt="nodejs" src="https://img.shields.io/badge/Node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+ <img align="center" alt="nodejs" src="https://img.shields.io/badge/Node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+ <img align="center" alt="nodejs" src="https://img.shields.io/badge/Node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+ <img align="center" alt="nodejs" src="https://img.shields.io/badge/Node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
  <img align="center" alt="nodejs" src="https://img.shields.io/badge/Node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
  <img align="center" alt="express" src="https://img.shields.io/badge/Express-000000.svg?style=for-the-badge&logo=Express&logoColor=white"/>
  <img align="center" alt="postgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1.svg?style=for-the-badge&logo=PostgreSQL&logoColor=white"/>
