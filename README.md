@@ -37,8 +37,7 @@
 </div>
 
 
-<h3>Meu portfolio:</h3>
-<a>"https://gustavomedeiros-portfolio.tech/"/</a>
+<a href="https://gustavomedeiros-portfolio.tech/">Meu portfolio</a>
 
 
 
