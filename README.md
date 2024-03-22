@@ -40,10 +40,13 @@
 <h3>My portfolio:</h3>
 <a>Stil in work... </a>
 
-<hr>
+<table><tr><td valign="top" width="50%">
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=gusmfs&show_icons=true&locale=en" width="45%" alt="gusmfs" />
-<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=gusmfs&" width="45%" alt="gusmfs" />
+<img src="https://readme-jokes.vercel.app/api?hideBorder" alt="Jokes Card" />
+
+</td><td valign="top" width="50%">
+
+<img src="./assets/metrics.plugin.achievements.svg">
 
 </td></tr></table>
 
