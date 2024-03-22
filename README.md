@@ -1,5 +1,5 @@
-<h1 align="center">Olá, meu nome é Gustavo</h1>
-<h3 align="center">Desenvolvedor Full-Stack | QA Analysis</h3>
+<h1 align="center">🌱 Olá, meu nome é Gustavo 🌱</h1>
+<h3 align="center">< Desenvolvedor Full-Stack | QA Analysis /></h3>
 
 
 <img width="100%" height="400" src="https://steamuserimages-a.akamaihd.net/ugc/945094571616867748/680E4979CC75A2310664E0883F3F3FC6CBECA3BE/?imw=1024&imh=576&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true" alt="">
