@@ -49,5 +49,5 @@
 <br>
 <br>
 
-<a href="https://gustavomedeiros-portfolio.tech/"><h3>Meu portfolio</h3></a>
+<a href="https://gustavomedeiros-portfolio.tech/"><h3 color="blue">Meu portfolio</h3></a>
 
