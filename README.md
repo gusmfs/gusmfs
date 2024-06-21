@@ -1,5 +1,5 @@
 <h1 align="center">🌱 Olá, meu nome é Gustavo 🌱</h1>
-<h3 align="center">< Desenvolvedor Full-Stack | QA Analyst /></h3>
+<h3 align="center">< Desenvolvedor Full-Stack | QA Engineer /></h3>
 
 
 <img width="100%" height="400" src="https://www.icegif.com/wp-content/uploads/2021/09/icegif-9.gif" alt="">
