@@ -4,7 +4,6 @@
 
 <img width="100%" height="400" src="https://www.icegif.com/wp-content/uploads/2021/09/icegif-9.gif" alt="">
 
-🌱 Estou atualmente aprendendo Playwright/Selenium
 
 <h3>Estou atuando como QA Engineer!</h3>
 <p align="left">
