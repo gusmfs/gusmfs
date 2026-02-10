@@ -2,89 +2,95 @@
 <h3 align="center">< Desenvolvedor Full-Stack | QA Engineer /></h3>
 
 
-<img width="100%" height="400" src="https://www.icegif.com/wp-content/uploads/2021/09/icegif-9.gif" alt="">
+# 👋 Olá, eu sou o Gustavo Medeiros
 
+💼 **Quality Assurance Engineer (QA Pleno)**  
+Focado em qualidade de software, automação de testes e sistemas críticos.
 
-👋 Olá, eu sou o Gustavo Medeiros
+Atuo com testes manuais e automatizados em aplicações **web e mobile**, buscando antecipar riscos, melhorar processos e garantir entregas confiáveis.
 
-Sou Quality Assurance Engineer (QA Pleno) com foco em qualidade de software, automação de testes e sistemas críticos. Atuo com testes manuais e automatizados em aplicações web e mobile, sempre buscando antecipar riscos e garantir entregas confiáveis.
+Tenho experiência em **biometria facial, meios de pagamento, gateways e antifraude**, além de background em **desenvolvimento full-stack**, o que me permite atuar de forma mais técnica e próxima do time de engenharia.
 
-Tenho experiência prática em autenticação biométrica facial, meios de pagamento, gateways e antifraude, além de background em desenvolvimento full-stack, o que me permite atuar de forma mais técnica e próxima do time de engenharia.
+---
 
-🧪 O que eu faço como QA
+## 🧪 O que eu faço como QA
 
-Testes manuais funcionais e exploratórios
+- Testes manuais funcionais e exploratórios  
+- Automação de testes com **Playwright** e **Cypress**  
+- Escrita de cenários **BDD (Gherkin)**  
+- Testes orientados a risco em fluxos críticos  
+- Validação de integrações com **APIs REST**  
+- Execução de testes em pipelines **CI/CD**  
+- Análise de falhas, logs e comportamento do sistema  
 
-Automação de testes com Playwright e Cypress
+---
 
-Escrita de cenários BDD (Gherkin)
+## 🔐 Experiência em Sistemas Críticos
 
-Testes orientados a risco em fluxos críticos
+### Biometria e Autenticação Facial
+- Integrações com **AWS Rekognition** e **FaceTec**
+- Testes de onboarding e prova de vida (liveness)
+- Validação de cenários de antifraude
+- Testes de falha:
+  - Baixa iluminação
+  - Problemas de câmera
+  - Múltiplas faces
+  - Tentativas inválidas
 
-Validação de integrações com APIs REST
+### Pagamentos e Gateways
+- Testes de aprovação e recusa de transações
+- Validação de:
+  - Saldo insuficiente
+  - Limite excedido
+  - Cartão inválido
+- Tratamento de erros técnicos e falhas de gateway
+- Validação de retornos, logs e alertas operacionais
 
-Execução de testes em pipelines CI/CD
+---
 
-Análise de falhas, logs e comportamento do sistema
+## ⚙️ Tecnologias e Ferramentas
 
-🔐 Experiência em sistemas críticos
+### Testes & Qualidade
+Playwright • Cypress • Selenium • Percy • BDD (Gherkin) • Testes Exploratórios • AIO Test • LambdaTest  
 
-Autenticação facial e biometria
+### Linguagens & Frameworks
+JavaScript • TypeScript • Python • Node.js • React • Next.js • Django • NestJS • Express.js  
 
-Integrações com AWS Rekognition e FaceTec
+### DevOps & Infra
+CI/CD • Docker • Linux • Git  
 
-Testes de onboarding, prova de vida (liveness) e antifraude
+### Banco de Dados
+PostgreSQL • MySQL • SQLite • SQL  
 
-Cenários de falha: iluminação, câmera, múltiplas faces e tentativas inválidas
+### Metodologias
+Scrum • Kanban  
 
-Pagamentos e gateways
+---
 
-Testes de aprovação e recusa de transações
+## 📂 O que você vai encontrar aqui
 
-Validação de saldo insuficiente, limite excedido e cartão inválido
+- Projetos de automação de testes  
+- Estruturas de testes E2E  
+- Boas práticas de QA aplicadas na prática  
+- Estudos e experimentos com ferramentas de testes  
+- Integrações com APIs e fluxos críticos de negócio  
 
-Tratamento de erros técnicos e falhas internas de gateway
+---
 
-Validação de retornos, logs e alertas operacionais
+## 🎯 Objetivo Profissional
 
-⚙️ Tecnologias e ferramentas
+Atuar como **QA Pleno**, contribuindo para a qualidade de produtos digitais **robustos, escaláveis e seguros**, com foco em automação, processos de qualidade e melhoria contínua.
 
-Testes & Qualidade
-Playwright • Cypress • Selenium • Percy • BDD (Gherkin) • Testes Exploratórios • AIO Test • LambdaTest
+---
 
-Linguagens & Frameworks
-JavaScript • TypeScript • Python • Node.js • React • Next.js • Django • NestJS • Express.js
+## 📫 Contato
 
-DevOps & Infra
-CI/CD • Docker • Linux • Git
+📧 Email: gustavomfariasantos@gmail.com  
+💼 LinkedIn: https://linkedin.com/in/seu-link  
 
-Banco de Dados
-PostgreSQL • MySQL • SQLite • SQL
+---
 
-Metodologias
-Scrum • Kanban
-
-📂 O que você vai encontrar aqui
-
-Projetos de automação de testes
-
-Exemplos de estrutura de testes E2E
-
-Boas práticas de QA aplicadas na prática
-
-Estudos e experimentos com ferramentas de testes
-
-Integrações com APIs e fluxos críticos de negócio
-
-🎯 Objetivo profissional
-
-Atuar como QA Pleno, contribuindo para a qualidade de produtos digitais robustos, escaláveis e seguros, com foco em automação, processos de qualidade e melhoria contínua.
-
-📫 Contato
-
-Email: gustavomfariasantos@gmail.com
-
-LinkedIn: linkedin.com/in/seu-link
+⭐ *Se algum projeto for útil para você, considere dar uma estrela!*
 
  <img align="center" alt="typescript" src="https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=TypeScript&logoColor=white"/>
  <img align="center" alt="javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black"/>
