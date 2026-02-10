@@ -1,5 +1,5 @@
 <h1 align="center">🌱 Olá, meu nome é Gustavo 🌱</h1>
-<h3 align="center">< Desenvolvedor Full-Stack | QA Engineer /></h3>
+<h3 align="center">< QA Engineer Pleno /></h3>
 
 
 # 👋 Olá, eu sou o Gustavo Medeiros
